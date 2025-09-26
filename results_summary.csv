@@ -1,0 +1,10 @@
+Question,Answer,Key_Finding
+1. Property Types,"Entire home/apt (61.9%), Private room (33.3%), Shared room (4.8%)","Most listings are entire homes"
+2. Highest Listings Neighbourhood,Manhattan (405 listings),"Manhattan dominates the market"
+3. Highest Average Prices,Staten Island ($291.75),"Surprising price leader"
+4. Construction Year vs Price,Very weak correlation (0.027),"Property age doesn't affect pricing significantly"
+5. Top Hosts,Multiple hosts with 19 listings each,"Professional hosts manage multiple properties"
+6. Verified vs Reviews,Verified hosts get more reviews (153 vs 138),"Verification increases trust and bookings"
+7. Price vs Service Fee,Perfect correlation (1.000),"Service fees calculated from price"
+8. Review Patterns,Varies by neighbourhood and room type,"Manhattan has highest engagement"
+9. Listings vs Availability,Very weak correlation (0.008),"No clear relationship between listing count and availability"
