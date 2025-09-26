@@ -1,7 +1,5 @@
 # AIRBNB HOTEL BOOKING ANALYSIS
 
-**VOIS AICTE Internship - DIY Project 4**
-
 ## Project Overview
 Analysis of Airbnb dataset to understand market dynamics and pricing patterns in the hospitality industry.
 
@@ -25,7 +23,7 @@ Analysis of Airbnb dataset to understand market dynamics and pricing patterns in
 
 ## Files Structure
 ```
-VOIS_AICTE_Oct2025_Nidhin-R/
+VOIS_AICTE_Oct2025_Nidhin.R/
 ├── README.md                # Project documentation
 ├── airbnb_analysis.py       # Main analysis script
 ├── requirements.txt         # Python dependencies
@@ -55,6 +53,4 @@ VOIS_AICTE_Oct2025_Nidhin-R/
 
 ## Author
 **Student Name**: Nidhin-R  
-**AICTE Internship ID**: [Your ID]  
-**Project**: VOIS DIY Project-4  
-**Repository**: https://github.com/Nidhin-lab/VOIS_AICTE_Oct2025_Nidhin-R
+
